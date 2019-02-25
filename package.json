@@ -13,19 +13,21 @@
     "heroku-postbuild": "npm run build"
   },
   "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "config": "^3.0.1",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.4.0",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "nuxt": "^2.4.0"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9",
-    "autoprefixer": "^8.6.4",
-    "tailwindcss": "^0.7.0",
     "@vue/test-utils": "^1.0.0-beta.27",
+    "autoprefixer": "^8.6.4",
     "ava": "^1.0.1",
     "browser-env": "^3.2.5",
+    "nodemon": "^1.18.9",
     "require-extension-hooks": "^0.3.3",
     "require-extension-hooks-babel": "^0.1.1",
-    "require-extension-hooks-vue": "^2.0.0"
+    "require-extension-hooks-vue": "^2.0.0",
+    "tailwindcss": "^0.7.0"
   }
 }
