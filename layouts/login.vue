@@ -1,6 +1,7 @@
 <template>
   <section class="login-container">
     <div>
+      <nuxt-link to="/">Home</nuxt-link>
       <nuxt/>
     </div>
   </section>
