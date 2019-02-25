@@ -1,22 +1,24 @@
-# nuxt.demo
+## Nuxt Demo Dubai JS Meetup
 
-> My splendiferous Nuxt.js project
 
-## Build Setup
+### What is NuxtJs
 
-``` bash
-# install dependencies
-$ yarn install
+NuxtJs is a server-side rendering app development platform that can be written in VueJs. 
+It combines the server side capabilities of NodeJs and front-end dynamic capabilities of VueJs.
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+#### Few Features
 
-# build for production and launch server
-$ yarn run build
-$ yarn start
+* Server Side Rendering Support
+* Easy Installation of Plugins
+* SEO
+* etc...
 
-# generate static project
-$ yarn run generate
-```
+#### What we are building
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+We are building an app that lists. 
+
+
+#### Resource
+
+[Why NuxtJs?](https://medium.com/vue-mastery/10-reasons-to-use-nuxt-js-for-your-next-web-application-522397c9366b)
+
