@@ -1,4 +1,4 @@
 {
-  "API_BASE_URL" : "http://localhost:3000",
-  "BASE_URL" : "http://localhost:3000"
+  "API_BASE_URL" : "https://gentle-meadow-68198.herokuapp.com",
+  "BASE_URL" : "https://gentle-meadow-68198.herokuapp.com"
 }
