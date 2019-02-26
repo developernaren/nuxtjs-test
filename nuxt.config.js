@@ -1,7 +1,7 @@
 const pkg = require('./package')
 const config = require('config')
 
-console.log(config.get('BASE_URL'))
+console.log(config.get('API_BASE_URL'))
 module.exports = {
   env :{
     apiBaseUrl:  config.get('API_BASE_URL'),
@@ -83,5 +83,8 @@ module.exports = {
       }
     },
     localStorage: false
+  },
+  axios:{
+    baseUrl: config.get('API_BASE_URL')
   }
 }
